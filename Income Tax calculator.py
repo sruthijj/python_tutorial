@@ -11,9 +11,11 @@ if income <= 250000:
     print("No Tax")
 elif income > 250000 and income <= 500000:
     tax =  income * 0.05
+    print("your annual income is",income ,"And the Tax Amount is :",tax)
 elif income > 500000 and income <= 750000:
     tax = income * 0.10
-elif income > 750000 and income <= 10000000:
+    print("your annual income is",income ,"And the Tax Amount is :",tax)
+elif income > 750000 and income <= 1000000:
     tax = income*0.15
-    print("Tax Amount is :",tax)
+    print("your annual income is",income ,"And the Tax Amount is :",tax)
 
