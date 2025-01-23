@@ -2,7 +2,7 @@
     The tax is calculated as follows :
     if the income is <=250000 then no tax
     if the income is >250000 and <=500000 then tax is 5%
-    if the income is >500000 and <=750000 then tax is 10%
+    if he income is >500000 and <=750000 then tax is 10%
     if the income is >750000 and <=1000000 then tax is 15%
     print tax amount
 """
