@@ -1,6 +1,6 @@
 
 inp= open("input.txt", "r")
-
+ 
 text = inp.read()
 
 words = text.split(" ")
